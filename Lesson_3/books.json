@@ -1,0 +1,717 @@
+{  "kind": "books#volumes",
+  "totalItems": 722,
+  "items": [
+    {
+      "kind": "books#volume",
+      "id": "l9wHAQAAMAAJ",
+      "etag": "2DYTjhZmcFc",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/l9wHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Гарри Поттер и кубок огня",
+        "subtitle": "",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Rosman",
+        "publishedDate": "2002",
+        "description": "Гарри Поттеру предстоит четвертый год обучения в Школе чародейства и волшебства в Хогвартсе. Новые заклинания, новые зелья, новые учителя, новые предметы... Все это знакомо, а Гарри с нетерпением ожидает начала учебного года",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000096489111"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 665,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 1,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=l9wHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=l9wHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=l9wHAQAAMAAJ&q=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=1&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=l9wHAQAAMAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B8_%D0%BA%D1%83%D0%B1%D0%BE%D0%BA_%D0%BE.html?hl=&id=l9wHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=l9wHAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Гарри Поттеру предстоит четвертый год обучения в Школе чародейства и волшебства в Хогвартсе. Новые заклинания, новые зелья, новые ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "mmzhBwAAQBAJ",
+      "etag": "DcsnB0/odEs",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/mmzhBwAAQBAJ",
+      "volumeInfo": {
+        "title": "Гарри Поттер и философский камень - Harry Potter and the Philosopher's Stone",
+        "subtitle": "",
+        "authors": [
+          "Дж. К. Роулинг"
+        ],
+        "publisher": "Vav",
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 160,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=mmzhBwAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=mmzhBwAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=mmzhBwAAQBAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=2&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=mmzhBwAAQBAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B8_%D1%84%D0%B8%D0%BB%D0%BE%D1%81%D0%BE.html?hl=&id=mmzhBwAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=mmzhBwAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "eNsHAQAAMAAJ",
+      "etag": "G/8mpha7jEI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/eNsHAQAAMAAJ",
+      "volumeInfo": {
+        "title": "Гарри Поттер и тайная комната",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publishedDate": "2002",
+        "description": "Это вторая книга о приключениях Гарри Поттера. Он снова вступает в схватку со злом. На этот раз его враг так силен, что надежды на победу почти неи",
+        "industryIdentifiers": [
+          {
+            "type": "OTHER",
+            "identifier": "IND:30000096489129"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 472,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "0.1.1.0.preview.0",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=eNsHAQAAMAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=eNsHAQAAMAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=eNsHAQAAMAAJ&q=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=3&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=eNsHAQAAMAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B8_%D1%82%D0%B0%D0%B9%D0%BD%D0%B0%D1%8F.html?hl=&id=eNsHAQAAMAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=eNsHAQAAMAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Это вторая книга о приключениях Гарри Поттера. Он снова вступает в схватку со злом. На этот раз его враг так силен, что надежды на ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "VNJnTUZ97HQC",
+      "etag": "yUFKozIza4g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/VNJnTUZ97HQC",
+      "volumeInfo": {
+        "title": "Гарри Поттер в церкви: между анафемой и улыбкой",
+        "subtitle": "",
+        "publisher": "ОЛМА Медиа Групп",
+        "publishedDate": "2003",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785765429013"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5765429017"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": true
+        },
+        "pageCount": 123,
+        "printType": "BOOK",
+        "categories": [
+          "Christianity and literature"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=VNJnTUZ97HQC&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=VNJnTUZ97HQC&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=VNJnTUZ97HQC&pg=PA49&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=4&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=VNJnTUZ97HQC&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B2_%D1%86%D0%B5%D1%80%D0%BA%D0%B2%D0%B8.html?hl=&id=VNJnTUZ97HQC"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=VNJnTUZ97HQC&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "НА ЧТО НАМЕКАЕТ «\u003cb\u003eГАРРИ ПОТТЕР\u003c/b\u003e»? «Сказка –ложь, да в ней намек –\u003cbr\u003e\nдобрым молодцам урок». Главное в сказке – ее урок, ее моралитэ. И в сказке \u003cbr\u003e\nпро Гарри это моралитэ доброе. Волшебные рецепты из «\u003cb\u003eГарри Поттера\u003c/b\u003e» \u003cbr\u003e\nне&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "_GaYDQAAQBAJ",
+      "etag": "jW592SFfpN4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/_GaYDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Как работает экономика: Что Rolling Stones, Гарри Поттер и большой спорт могут рассказать о свободном рынке",
+        "authors": [
+          "Д.Тамни"
+        ],
+        "publisher": "Альпина Паблишер",
+        "publishedDate": "2016-11-28",
+        "description": "У экономики есть свои законы и принципы. Автор этой книги, редактор Forbes Джон Тамни, рассказывает о них, не обременяя читателя сложной терминологией, графиками и статистическими выкладками. Вместо этого он использует увлекательные истории из мира большого спорта, кино, массовой культуры и шоубизнеса. На примере The Rolling Stones, Пэрис Хилтон и американского футбола рассказывает об удачных и неудачных системах налогообложения, с помощью фильмов «Крестный отец», «Клан Сопрано» и «Унесенные ветром» о проблемах антимонопольных законов, а звезда баскетбола Леброн Джеймс помогает автору проиллюстрировать эффективность свободной торговли.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785961444704"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5961444708"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "pageCount": 274,
+        "printType": "BOOK",
+        "categories": [
+          "Business & Economics"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=_GaYDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=_GaYDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=_GaYDQAAQBAJ&pg=PA1949&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=5&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=_GaYDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-_GaYDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 352.82,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 317.54,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=_GaYDQAAQBAJ&rdid=book-_GaYDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.5282E8,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.1754E8,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%B0%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA-sample-epub.acsm?id=_GaYDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%9A%D0%B0%D0%BA_%D1%80%D0%B0%D0%B1%D0%BE%D1%82%D0%B0%D0%B5%D1%82_%D1%8D%D0%BA%D0%BE%D0%BD%D0%BE%D0%BC%D0%B8%D0%BA-sample-pdf.acsm?id=_GaYDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=_GaYDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Д.Тамни. ДЖОН ТАМНИ КАК РА50ТАЕТ ЭКОНОМИКА Что Rolling Stones, \u003cbr\u003e\n\u003cb\u003eГарри Поттер\u003c/b\u003e и большой спорт могут рассказать освободном рынке \u003cbr\u003e\nПеревод с английского пд пиш и Все права защищены. Произведение \u003cbr\u003e\nпредназначено&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "aG0KBgAAQBAJ",
+      "etag": "/Y9J+bb/V1g",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/aG0KBgAAQBAJ",
+      "volumeInfo": {
+        "title": "Garre potter Гарри Поттер и узник Азкабана",
+        "subtitle": "",
+        "publisher": "Jasurbek",
+        "publishedDate": "2015-01-04",
+        "description": "По всем статьям, Гарри Поттер был весьма необычным ребёнком. Взять хотя бы то, что он ненавидел летние каникулы. Или то, что он искренне стремился выполнить каникулярные домашние задания, но был вынужден заниматься этим тайно, под покровом ночи. А ещё он был колдун. Уже почти наступила полночь, а Гарри, как тентом укрывшись с головой одеялом и держа в руке карманный фонарик, лежал на животе на кровати. Перед ним, подпёртая подушкой, стояла раскрытая книга в кожаной обложке («История магии» Батильды Жукпук). Гарри водил кончиком орлиного пера над страницей и, насупив брови, пытался выискать в книге что-нибудь, что помогло бы закончить сочинение на тему «Бессмысленность сожжения ведьм в четырнадцатом столетии — обсуждение». Перо зависло над подходящим параграфом. Гарри поправил на носу круглые очки, поднёс фонарик поближе к книге и прочитал: Не владеющие магией люди (более известные как муглы) в средние века особенно сильно боялись колдовства, однако не обладали даром распознавать оное. В тех редких случаях, когда им удавалось поймать настоящих ведьм или колдунов, сожжение не приносило ожидаемого результата. Колдун или ведьма в этом случае прибегали к базовому Пламезамораживающему Заклятию, а затем притворно вопили от боли, в действительности испытывая лишь легкую щекотку. Например, Везучка Венделин так любила жариться на костре, что позволяла отловить себя не менее сорока семи раз, разумеется, под разными обличьями. Гарри зажал перо зубами и полез под подушку за чернильницей и свитком пергамента. Медленно и очень осторожно он отвинтил крышечку, обмакнул перо в чернильницу и начал писать, постоянно останавливаясь и прислушиваясь — если бы кто-то из Дурслеев по пути в ванную услышал скрип пера, то Гарри, скорее всего, заперли бы в шкафу под лестницей до самого конца каникул. Из-за семейства Дурслеев, проживавшего в доме № 4 по Бирючиновой аллее, Гарри и ненавидел летние каникулы. Дядя Вернон, тётя Петуния и их сын Дудли были единственной оставшейся у Гарри родней. Они были муглы, и им было свойственно в высшей степени средневековое отношение к колдовству. О погибших родителях Гарри — а они как раз были колдун и ведьма — в стенах дома на Бирючиновой аллее упоминать не полагалось. Многие годы тётя Петуния и дядя Вернон пребывали в убеждении: если держать Гарри в как можно более забитом состоянии, то из него удастся выбить волшебные способности. К их великому возмущению, ничего не вышло. Теперь им приходилось жить в постоянном страхе: вдруг кто-нибудь узнает, что племянник вот уже два года учится в «Хогварце», школе колдовства и ведьминских искусств. Всё, что они могли предпринять в качестве превентивной меры, так это с самого начала каникул запереть в шкафу книги заклинаний, волшебную палочку, котёл и метлу и запретить мальчику разговаривать с соседями. Недоступность учебников была для Гарри настоящим бедствием, потому что в «Хогварце» много задавали на каникулы. Одна из работ, особенно сложная, про уменьшительные отвары, предназначалась для самого нелюбимого учителя, профессора Злея, а тот был бы в восторге, найдись у него повод наложить на Гарри суровое взыскание на месяц-другой. У Гарри не было выбора — пришлось воспользоваться первым же удобным случаем. В самом начале каникул, пока дядя Вернон, тётя Петуния и Дудли",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9780747545729"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "0747545723"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": false
+        },
+        "pageCount": 223,
+        "printType": "BOOK",
+        "categories": [
+          "Fiction"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "1.1.1.0.preview.2",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=aG0KBgAAQBAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=aG0KBgAAQBAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=aG0KBgAAQBAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=6&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=aG0KBgAAQBAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/Garre_potter_%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B8.html?hl=&id=aG0KBgAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true
+        },
+        "pdf": {
+          "isAvailable": true
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=aG0KBgAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "По всем статьям, Гарри Поттер был весьма необычным ребёнком. Взять хотя бы то, что он ненавидел летние каникулы. Или то, что он ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "2BQ5IgAACAAJ",
+      "etag": "XsSHKb212DI",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/2BQ5IgAACAAJ",
+      "volumeInfo": {
+        "title": "Гарри Поттер и узник Азкабана",
+        "authors": [
+          "J. K. Rowling"
+        ],
+        "publisher": "Rosman",
+        "publishedDate": "2002",
+        "description": "Открой эту книгу - и ты окунешься в мир чародейства и волшебства, где оживают мифические чудовища, где школьный учитель - оборотень и где даже время можно повернуть вспять",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5353004329"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785353004325"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 508,
+        "printType": "BOOK",
+        "categories": [
+          "Literary Collections"
+        ],
+        "averageRating": 5.0,
+        "ratingsCount": 2,
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=2BQ5IgAACAAJ&printsec=frontcover&img=1&zoom=5&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=2BQ5IgAACAAJ&printsec=frontcover&img=1&zoom=1&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=2BQ5IgAACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=7&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=2BQ5IgAACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B8_%D1%83%D0%B7%D0%BD%D0%B8%D0%BA_%D0%90.html?hl=&id=2BQ5IgAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=2BQ5IgAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Открой эту книгу - и ты окунешься в мир чародейства и волшебства, где оживают мифические чудовища, где школьный учитель - оборотень ..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "4lrHNwAACAAJ",
+      "etag": "5aEzuUNCzHY",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/4lrHNwAACAAJ",
+      "volumeInfo": {
+        "title": "Гарри Поттер: волшебство бренда",
+        "subtitle": "[пер. с англ.]",
+        "authors": [
+          "Стивен Браун"
+        ],
+        "publishedDate": "2008",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5969300934"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785969300934"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 252,
+        "printType": "BOOK",
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=4lrHNwAACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=8&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=4lrHNwAACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%B2%D0%BE%D0%BB%D1%88%D0%B5%D0%B1%D1%81%D1%82.html?hl=&id=4lrHNwAACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=4lrHNwAACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "M6rFDQAAQBAJ",
+      "etag": "KPIvVPusQnA",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/M6rFDQAAQBAJ",
+      "volumeInfo": {
+        "title": "Джоан Роулинг. Всё о Гарри Поттере, жизни и любви",
+        "authors": [
+          "Софья Бенуа"
+        ],
+        "publisher": "Litres",
+        "publishedDate": "2017-09-05",
+        "description": "Эта история началась в поезде, который следовал из Манчестера в Лондон. За окном проносились хмурые английские пейзажи, которые и вдохновили Джоан Роулинг на создание книги о мальчике-волшебнике. Лишь спустя семь лет, после долгих скитаний по издательствам никому не известной переводчице удалось напечатать роман «Гарри Поттер и Философский камень» тиражом в 1000 экземпляров. С тех пор книги о мальчике, который выжил, вошли в число самых продаваемых в истории. Эта книга о том, как обычная переводчица из Глоттершира, написав несколько книг, смогла изменить этот мир к лучшему.",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_13",
+            "identifier": "9785040370368"
+          },
+          {
+            "type": "ISBN_10",
+            "identifier": "5040370369"
+          }
+        ],
+        "readingModes": {
+          "text": true,
+          "image": true
+        },
+        "printType": "BOOK",
+        "categories": [
+          "Biography & Autobiography"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": true,
+        "contentVersion": "1.1.1.0.preview.3",
+        "panelizationSummary": {
+          "containsEpubBubbles": false,
+          "containsImageBubbles": false
+        },
+        "imageLinks": {
+          "smallThumbnail": "http://books.google.com/books/content?id=M6rFDQAAQBAJ&printsec=frontcover&img=1&zoom=5&edge=curl&source=gbs_api",
+          "thumbnail": "http://books.google.com/books/content?id=M6rFDQAAQBAJ&printsec=frontcover&img=1&zoom=1&edge=curl&source=gbs_api"
+        },
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=M6rFDQAAQBAJ&pg=PT151&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=9&source=gbs_api",
+        "infoLink": "https://play.google.com/store/books/details?id=M6rFDQAAQBAJ&source=gbs_api",
+        "canonicalVolumeLink": "https://market.android.com/details?id=book-M6rFDQAAQBAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "FOR_SALE",
+        "isEbook": true,
+        "listPrice": {
+          "amount": 337.89,
+          "currencyCode": "RUB"
+        },
+        "retailPrice": {
+          "amount": 304.1,
+          "currencyCode": "RUB"
+        },
+        "buyLink": "https://play.google.com/store/books/details?id=M6rFDQAAQBAJ&rdid=book-M6rFDQAAQBAJ&rdot=1&source=gbs_api",
+        "offers": [
+          {
+            "finskyOfferType": 1,
+            "listPrice": {
+              "amountInMicros": 3.3789E8,
+              "currencyCode": "RUB"
+            },
+            "retailPrice": {
+              "amountInMicros": 3.041E8,
+              "currencyCode": "RUB"
+            }
+          }
+        ]
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "PARTIAL",
+        "embeddable": true,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%BE%D0%B0%D0%BD_%D0%A0%D0%BE%D1%83%D0%BB%D0%B8%D0%BD%D0%B3_%D0%92%D1%81%D1%91_%D0%BE_%D0%93%D0%B0-sample-epub.acsm?id=M6rFDQAAQBAJ&format=epub&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "pdf": {
+          "isAvailable": true,
+          "acsTokenLink": "http://books.google.ru/books/download/%D0%94%D0%B6%D0%BE%D0%B0%D0%BD_%D0%A0%D0%BE%D1%83%D0%BB%D0%B8%D0%BD%D0%B3_%D0%92%D1%81%D1%91_%D0%BE_%D0%93%D0%B0-sample-pdf.acsm?id=M6rFDQAAQBAJ&format=pdf&output=acs4_fulfillment_token&dl_type=sample&source=gbs_api"
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=M6rFDQAAQBAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "SAMPLE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Затем один за другим следовали продолжения: «\u003cb\u003eГарри Поттер\u003c/b\u003e и Тайная \u003cbr\u003e\nкомната», «\u003cb\u003eГарри Поттер\u003c/b\u003e и узник Азкабана», «\u003cb\u003eГарри Поттер\u003c/b\u003e и Кубок огня», «\u003cbr\u003e\n\u003cb\u003eГарри Поттер\u003c/b\u003e и Орден Феникса», «\u003cb\u003eГарри Поттер\u003c/b\u003e и ПринцПолукровка», «\u003cbr\u003e\nГарри&nbsp;..."
+      }
+    },
+    {
+      "kind": "books#volume",
+      "id": "cs7UkQEACAAJ",
+      "etag": "bR7hsFgqG/4",
+      "selfLink": "https://www.googleapis.com/books/v1/volumes/cs7UkQEACAAJ",
+      "volumeInfo": {
+        "title": "\"Гарри Поттер\" как филологический камень: семикнижие Джоан Роулинг в зеркале викторианской культуры и английского текста Первой мировой войны (WWI)",
+        "subtitle": "",
+        "authors": [
+          "Е. П. Барановская"
+        ],
+        "publishedDate": "2011",
+        "description": "Многогранная, увлекательная и в то же время вдумчивая книга",
+        "industryIdentifiers": [
+          {
+            "type": "ISBN_10",
+            "identifier": "5904754302"
+          },
+          {
+            "type": "ISBN_13",
+            "identifier": "9785904754303"
+          }
+        ],
+        "readingModes": {
+          "text": false,
+          "image": false
+        },
+        "pageCount": 285,
+        "printType": "BOOK",
+        "categories": [
+          "Foreign Language Study"
+        ],
+        "maturityRating": "NOT_MATURE",
+        "allowAnonLogging": false,
+        "contentVersion": "preview-1.0.0",
+        "language": "ru",
+        "previewLink": "http://books.google.ru/books?id=cs7UkQEACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&cd=10&source=gbs_api",
+        "infoLink": "http://books.google.ru/books?id=cs7UkQEACAAJ&dq=%7B%D0%93%D0%B0%D1%80%D1%80%D0%B8+%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80%7D&hl=&source=gbs_api",
+        "canonicalVolumeLink": "https://books.google.com/books/about/%D0%93%D0%B0%D1%80%D1%80%D0%B8_%D0%9F%D0%BE%D1%82%D1%82%D0%B5%D1%80_%D0%BA%D0%B0%D0%BA_%D1%84%D0%B8%D0%BB%D0%BE.html?hl=&id=cs7UkQEACAAJ"
+      },
+      "saleInfo": {
+        "country": "RU",
+        "saleability": "NOT_FOR_SALE",
+        "isEbook": false
+      },
+      "accessInfo": {
+        "country": "RU",
+        "viewability": "NO_PAGES",
+        "embeddable": false,
+        "publicDomain": false,
+        "textToSpeechPermission": "ALLOWED",
+        "epub": {
+          "isAvailable": false
+        },
+        "pdf": {
+          "isAvailable": false
+        },
+        "webReaderLink": "http://play.google.com/books/reader?id=cs7UkQEACAAJ&hl=&printsec=frontcover&source=gbs_api",
+        "accessViewStatus": "NONE",
+        "quoteSharingAllowed": false
+      },
+      "searchInfo": {
+        "textSnippet": "Многогранная, увлекательная и в то же время вдумчивая книга"
+      }
+    }
+  ]
+}
